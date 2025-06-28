@@ -17,11 +17,6 @@ ChatGPT Clone
   - Built with modern tech: Next.js 15, React 19, TypeScript, and
   Tailwind CSS
 
-> Enter a short description where I can add on the GitHub explaining 
-  how you put API keys and it will search through and find valid keys 
-  and etc.
-  And also add tags for the gh too
-
 ⏺ Description
 
   A Next.js-powered ChatGPT interface with intelligent API key
@@ -43,8 +38,3 @@ ChatGPT Clone
   4. Start chatting - Enjoy uninterrupted conversations with
   GPT-3.5-turbo
 
-  Tags
-
-  chatgpt openai api-key-manager nextjs react typescript gpt-3 chatbot
-   ai-chat openai-api tailwindcss chat-interface api-validation
-  bulk-testing
